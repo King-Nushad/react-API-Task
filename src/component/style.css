@@ -1,0 +1,28 @@
+
+
+.card{
+
+    /* display: inline-flex; */
+    height: 400px;
+    width:1000px;
+    margin-left: 300px;
+    /* text-align: center; */
+    
+
+}
+
+img{
+
+    width: 150px;
+    margin-left: -300px;
+}
+
+p{
+    width: 400px;
+    /* padding-top: 10px; */
+}
+
+h2{
+    width: 400px;
+    padding-top: 20px;
+}
